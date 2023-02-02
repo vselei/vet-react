@@ -37,4 +37,4 @@ npm run dev
 
 Deploy realizado no Netlify!
 <br />
-Link: <a href="https://euphonious-rolypoly-b0ba0c.netlify.app/">https://euphonious-rolypoly-b0ba0c.netlify.app/</a>
+Link do <a href="https://euphonious-rolypoly-b0ba0c.netlify.app/">site</a>
