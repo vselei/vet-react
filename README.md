@@ -35,6 +35,6 @@ npm run dev
 - React
 - Tailwind CSS
 
-Deploy realizado no Netlify!
-<br />
-Link do <a href="https://euphonious-rolypoly-b0ba0c.netlify.app/">site</a>
+##
+
+Visite o site: <a href="https://euphonious-rolypoly-b0ba0c.netlify.app/">Vet-React</a>
