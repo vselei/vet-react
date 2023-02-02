@@ -37,4 +37,4 @@ npm run dev
 
 ##
 
-Visite o site: <a href="https://euphonious-rolypoly-b0ba0c.netlify.app/" target="_blank">Vet-React</a>
+Visite o site: <a href="https://euphonious-rolypoly-b0ba0c.netlify.app/">Vet-React</a>
